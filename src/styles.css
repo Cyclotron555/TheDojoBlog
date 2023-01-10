@@ -33,6 +33,9 @@
   margin: 40px auto;
   padding: 20px;
 }
+.App {
+  background-color: rgb(221, 221, 211);
+}
 
 /* blog previews / list */
 .blog-preview {
